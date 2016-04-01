@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "obco:blocks/kurt_egelund_nu_som_block"
+    }
+}
