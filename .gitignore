@@ -37,3 +37,7 @@ out
 java_pid*.hprof
 
 /repo/
+
+kurt/
+DynamicClasses/
+README.md
